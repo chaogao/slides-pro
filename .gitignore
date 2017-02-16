@@ -1,6 +1,5 @@
 .DS_Store
 node_modules/
-vue_1/node_modules/
 dist/
 npm-debug.log
 build-debugger.js
